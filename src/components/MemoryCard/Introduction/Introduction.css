@@ -1,0 +1,20 @@
+.introductionbox {
+    background-size: 100%;
+    width: 100%;
+    min-height: 50px;
+    text-align: center;
+    vertical-align: center;
+}
+
+h1 {
+    margin-top: 20px;
+    font-size: 80px;
+    color: #2A77AE;
+}
+p {
+    font-size: 20px;
+    color: #2A77AE;
+}
+
+
+    
